@@ -2,7 +2,7 @@
 - **姓名：** 陈洪
 - **电话：** (+86)185-8156-2436  
 - **邮箱：** chen24296@163.com
-- **Github：** https://github.com/Jameschen97/
+- **Github：** github.com/Jameschen97
 - **求职意向：** Web 后端工程师
 
 ## 简介

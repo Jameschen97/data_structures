@@ -17,14 +17,14 @@
 有优秀的学习能力和团队沟通能力, 能与团队共同成长。
 
 ## 技能列表
-- **语言：** Python, JavaScript, Java, C, HTML / CSS
-- **后端相关：** Flask, Requests, Selenium, jinja2
+- **语言：** Python, JavaScript, Java, C, HTML / CSS, SQL
+- **后端相关：** Flask, Requests, Selenium
 - **前端相关：** Bootstrap, jQuery, Ajax
 - **数据库：** MySQL, Mongo, Redis, SQLite
 - **服务器:** WSGI, Gunicorn, Nginx
 - **操作系统：** Linux, Mac OS, Windows
-- **工具：** Pycharm, Atom, Git
-- **其他：** TCP/IP, HTTP, Websocket, SQL, Markdown
+- **工具：** Pycharm, Atom, Git, Markdown
+- **协议：** TCP/IP, HTTP, Websocket
 - **外语：** 大学英语四级，能流畅阅读英文文档
 
 ## 个人项目           

@@ -17,7 +17,7 @@
 有优秀的学习能力和团队沟通能力, 能与团队共同成长。
 
 ## 技能列表
-- **语言：** Python, JavaScript, Java, C, 汇编
+- **语言：** Python, JavaScript, Java, C
 - **后端相关：** Flask, Requests, Selenium, jinja2
 - **前端相关：** Bootstrap, jQuery, Ajax
 - **数据库：** MySQL, Mongo, Redis, SQLite
